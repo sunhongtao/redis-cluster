@@ -8,6 +8,8 @@ The all the nodes are runned by docker on each nodes.
 
 With the help of ruby.
    #yum  install ruby
+   
   #yum install rubygems
+  
   #gem install redis --version 3.0.7
 
